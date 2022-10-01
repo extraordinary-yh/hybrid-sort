@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 #global variable m_step that counts the steps of merge sort
 m_step = 0
 
@@ -145,10 +142,4 @@ def selection_sort(A,p,q):
         #count steps for outer for loop
         steps += 1
     return steps
-
-
-# In[ ]:
-
-
-
 
