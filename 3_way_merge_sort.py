@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
 
 def merge_3_sort(array, p, q):
     """
@@ -84,11 +82,4 @@ def merge_3(array, p, q, r, s):
         else:
             array[k] = S[z]
             z += 1
-            
-
-
-# In[ ]:
-
-
-
-
+ 
