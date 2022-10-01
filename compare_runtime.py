@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
-
 import time
 
 def compute_avg3(n):
@@ -67,10 +64,4 @@ for n in range(5000):
     #add to list
     m_time.append(m_avgtime)
     mt_time.append(mt_avgtime)
-
-
-# In[ ]:
-
-
-
 
