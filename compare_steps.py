@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
-
 import random
 
 
@@ -89,10 +86,4 @@ plt.xlabel("Input Size")
 plt.title("Average Steps taken by merge sort with and without threshold")
 plt.legend()
 plt.show()
-
-
-# In[ ]:
-
-
-
 
